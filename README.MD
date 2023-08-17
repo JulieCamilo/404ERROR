@@ -45,10 +45,11 @@ A ideia do site 404 ERROR surgiu a partir da necessidade de testar e aprimorar o
 
 # Tecnologias Utilizadas
 - HTML: Linguagem de Marcação usada para a estruturação do site
-<br>
 
 - [CSS](https://www.css3.com): Linguagem de estilo usada para estilizar o site
+
 - [PHP](https://www.php.net): Linguagem de Programação utilizada para o banco de dados com as informações do cliente (como endereço e email) e os pedidos feitos
+
 - Javascript: Linguagem de Programação usada para maior interatividade com o usuário, como: As imagens que podem ser mudadas com a setinhas nas laterais, no começo do site. Assim como o abrir e fechar dos ícones do carrinho ou usuário
 # Como Executar
 
