@@ -1,4 +1,3 @@
-<br>
 
 <h1 align="center"> 404 ERROR </h1>
 
@@ -15,7 +14,6 @@ O 404 ERROR é um site de pizzaria responsivo desenvolvido como projeto final do
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Executar](#como-executar)
 
-<br>
 
 # Introdução
 A ideia do site 404 ERROR surgiu a partir da necessidade de testar e aprimorar os meus conhecimentos e dos meus colegas de grupo. O 404 ERROR é um site de pizzaria responsivo criado em 4 linguagens diferentes para o projeto final do curso técnico de tecnologia da informação.
